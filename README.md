@@ -1,2 +1,1 @@
-# gitlab
-# github
+# only gitlab
